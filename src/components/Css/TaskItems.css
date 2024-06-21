@@ -1,0 +1,27 @@
+.taskitems{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0px;
+    align-items: center;
+}
+
+.taskitems-container{
+    display: flex;
+}
+
+.taskitems-text{
+    padding-left: 16px;
+    color: #800020;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.taskitems-cross-icon{
+    cursor: pointer;
+    padding-right: 25px;
+
+}
+
+.line-through{
+    text-decoration: line-through solid #ADADAD 3px;
+}
