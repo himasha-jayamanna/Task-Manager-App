@@ -1,4 +1,4 @@
 # Task Manager Application built using React
 
 
-![1](https://github.com/himasha-jayamanna/Task-Manager-App/assets/128303510/e96dc6a7-8b7a-496d-ba67-202bf9a2ab48)
+![2](https://github.com/himasha-jayamanna/Task-Manager-App/assets/128303510/44120ba6-1f07-43f1-b0b1-ee3a488f977c)
